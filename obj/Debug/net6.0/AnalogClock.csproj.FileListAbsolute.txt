@@ -1,0 +1,15 @@
+C:\Users\Lara\source\repos\AnalogClock\bin\Debug\net6.0\AnalogClock.exe
+C:\Users\Lara\source\repos\AnalogClock\bin\Debug\net6.0\AnalogClock.deps.json
+C:\Users\Lara\source\repos\AnalogClock\bin\Debug\net6.0\AnalogClock.runtimeconfig.json
+C:\Users\Lara\source\repos\AnalogClock\bin\Debug\net6.0\AnalogClock.dll
+C:\Users\Lara\source\repos\AnalogClock\bin\Debug\net6.0\AnalogClock.pdb
+C:\Users\Lara\source\repos\AnalogClock\obj\Debug\net6.0\AnalogClock.csproj.AssemblyReference.cache
+C:\Users\Lara\source\repos\AnalogClock\obj\Debug\net6.0\AnalogClock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lara\source\repos\AnalogClock\obj\Debug\net6.0\AnalogClock.AssemblyInfoInputs.cache
+C:\Users\Lara\source\repos\AnalogClock\obj\Debug\net6.0\AnalogClock.AssemblyInfo.cs
+C:\Users\Lara\source\repos\AnalogClock\obj\Debug\net6.0\AnalogClock.csproj.CoreCompileInputs.cache
+C:\Users\Lara\source\repos\AnalogClock\obj\Debug\net6.0\AnalogClock.dll
+C:\Users\Lara\source\repos\AnalogClock\obj\Debug\net6.0\refint\AnalogClock.dll
+C:\Users\Lara\source\repos\AnalogClock\obj\Debug\net6.0\AnalogClock.pdb
+C:\Users\Lara\source\repos\AnalogClock\obj\Debug\net6.0\AnalogClock.genruntimeconfig.cache
+C:\Users\Lara\source\repos\AnalogClock\obj\Debug\net6.0\ref\AnalogClock.dll
